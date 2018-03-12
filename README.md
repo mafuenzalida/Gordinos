@@ -1,2 +1,2 @@
 # Gordinos
-Game for course "Ingenieria de Software" in Ponitificia Universidad Catolica de Chile
+Game for course "Ingenieria de Software" 2013 in Ponitificia Universidad Catolica de Chile
